@@ -1,6 +1,6 @@
 .PHONY: build start start-dev
 -include .env
-PROVIDER_VERSION:=0.1.0
+PROVIDER_VERSION:=0.1.1
 KC_DB?=postgres
 KC_DB_URL?=jdbc:postgresql://localhost/keycloak
 KC_DB_USERNAME?=keycloak
