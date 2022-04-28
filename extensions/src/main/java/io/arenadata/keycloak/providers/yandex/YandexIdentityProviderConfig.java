@@ -1,4 +1,4 @@
-package org.keycloak.social.yandex;
+package io.arenadata.keycloak.providers.yandex;
 
 import org.keycloak.broker.oidc.OAuth2IdentityProviderConfig;
 import org.keycloak.models.IdentityProviderModel;

@@ -1,17 +1,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
-    <name>Keycloak Yandex</name>
+    <name>Keycloak Arenadata</name>
     <description/>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.keycloak.extensions</groupId>
-    <artifactId>keycloak-yandex</artifactId>
-    <version>${env.PROVIDER_VERSION}</version>
+    <groupId>io.arenadata.keycloak</groupId>
+    <artifactId>keycloak-arenadata</artifactId>
+    <version>${env.VERSION}</version>
     <packaging>jar</packaging>
 
     <properties>
-	    <version.keycloak>17.0.0</version.keycloak>
+	    <version.keycloak>17.0.1</version.keycloak>
 	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
             <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>

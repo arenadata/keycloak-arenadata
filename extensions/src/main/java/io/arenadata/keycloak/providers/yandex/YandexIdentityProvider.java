@@ -1,4 +1,4 @@
-package org.keycloak.social.yandex;
+package io.arenadata.keycloak.providers.yandex;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import org.jboss.logging.Logger;

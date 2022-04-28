@@ -1,4 +1,4 @@
-package org.keycloak.social.yandex;
+package io.arenadata.keycloak.providers.yandex;
 
 import org.keycloak.broker.provider.AbstractIdentityProviderFactory;
 import org.keycloak.broker.social.SocialIdentityProviderFactory;
